@@ -1,0 +1,11 @@
+BasedOnStyle: LLVM
+AllowShortFunctionsOnASingleLine: None
+BreakBeforeBraces: Attach
+ColumnLimit: '140'
+IndentWidth: '4'
+NamespaceIndentation: All
+SpaceBeforeParens: ControlStatements
+SpaceInEmptyParentheses: 'true'
+SpacesInParentheses: 'true'
+Standard: Auto
+TabWidth: '4'
