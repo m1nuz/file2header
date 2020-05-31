@@ -2,7 +2,7 @@
 
 #include <stdint.h>
 
-#include "gl3/gl3.h"
+#include <GL/glcorearb.h>
 
 enum TARGA_DATA_TYPE
 {

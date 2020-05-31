@@ -1,6 +1,6 @@
 #pragma once
 
-#include "al/al.h"
+#include <AL/al.h>
 
 struct riff_header
 {
